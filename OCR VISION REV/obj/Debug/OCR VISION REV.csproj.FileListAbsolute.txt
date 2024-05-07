@@ -1,0 +1,42 @@
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.csproj.AssemblyReference.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\App.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV_MarkupCompile.cache
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OCR VISION REV.exe.config
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OCR VISION REV.exe
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OCR VISION REV.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\Camera.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OpenCvSharp.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\DirectShowLib.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\HVT.Utility.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Memory.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Numerics.Vectors.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Buffers.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\stdole.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\Camera.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\Camera.dll.config
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\OpenCvSharp.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\DirectShowLib.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\HVT.Utility.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Memory.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Numerics.Vectors.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\Debug\System.Buffers.xml
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.csproj.SuggestedBindingRedirects.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.exe.config
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\MainWindow.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV_MarkupCompile.lref
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\MainWindow.baml
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.g.resources
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR_VISION_REV.Properties.Resources.resources
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.csproj.GenerateResource.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.csproj.CoreCompileInputs.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.csproj.CopyComplete
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.exe
+D:\coding\OCR VISION REV\OCR VISION REV\obj\Debug\OCR VISION REV.pdb

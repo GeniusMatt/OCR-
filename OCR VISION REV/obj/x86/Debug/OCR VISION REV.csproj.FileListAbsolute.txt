@@ -1,0 +1,58 @@
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OCR VISION REV.exe.config
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OCR VISION REV.exe
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OCR VISION REV.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\DirectShowLib.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.WpfExtensions.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Memory.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Buffers.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\DirectShowLib.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.csproj.AssemblyReference.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\MainWindow.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\App.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV_MarkupCompile.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV_MarkupCompile.lref
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\MainWindow.baml
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.g.resources
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR_VISION_REV.Properties.Resources.resources
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.csproj.GenerateResource.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.csproj.CoreCompileInputs.cache
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.csproj.CopyComplete
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.exe
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV.pdb
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\CameraControl.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\OCR VISION REV_Content.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Drawing.Common.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.ValueTuple.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.WpfExtensions.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Buffers.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Drawing.Common.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Memory.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\System.ValueTuple.xml
+D:\coding\OCR VISION REV\OCR VISION REV\obj\x86\Debug\CameraControl.baml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\x86\leptonica-1.82.0.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\x86\tesseract50.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\x64\leptonica-1.82.0.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\x64\tesseract50.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\Tesseract.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.Extensions.dll
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\OpenCvSharp.Extensions.xml
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.bigrams
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.fold
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.lm
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.nn
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.params
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.size
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.cube.word-freq
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.tesseract_cube.nn
+D:\coding\OCR VISION REV\OCR VISION REV\bin\x86\Debug\tessData\eng.traineddata
